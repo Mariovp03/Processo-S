@@ -1,0 +1,21 @@
+a:hover{
+    text-decoration: underline;
+}
+#botao{
+    width: 330px;
+    }
+
+@media screen and (max-width:720px){
+#botao{
+    width: 200px;
+}
+
+#prova{
+    width: 100%;
+    font-size: 24px;
+}
+
+#seta{
+    display: none;
+}
+}
