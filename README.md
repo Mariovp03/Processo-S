@@ -7,3 +7,6 @@ Parte do Github
  Continuação fora do Github
 -> Extrair o arquivo
 -> Abrir o index.html
+
+
+Observação: Fiquei com dúvida em algumas partes e indeciso como iria realizar o projeto, mas desenvolvi o que consegui :).
